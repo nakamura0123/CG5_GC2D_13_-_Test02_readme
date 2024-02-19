@@ -1,1 +1,2 @@
-# CG5_GC2D_13_-_Test02_readme
+ガウシアンブラー　Gussian
+Reinhardトーンマップ　toonMaping1
